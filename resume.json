@@ -1,0 +1,83 @@
+{
+    "basics": {
+        "name": "Stephen Kent",
+        "label": "Backend Developer",
+        "image": "",
+        "email": "stevejameskent1@gmail.com",
+        "phone": "(571) 295-6530",
+        "summary": "I'm a backend web developer with several years of experience developing, maintaining, and managing cloud native web applications. In addition to implementation I have been responsible for driving the full development lifecycle, from design through to deployment, maintenance and operations and I am comfortable handling the demands of modern software projects. In my spare time I'm using playing guitar (badly) or learning French.",
+        "location": {
+            "address": "2700 Dorr Ave",
+            "postalCode": "VA 22031",
+            "city": "Fairfax",
+            "countryCode": "US"
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "name": "Capital One",
+            "position": "Mid - Sr Backend Engineer",
+            "url": "https://capitalone.com",
+            "startDate": "2016-03",
+            "endDate": "2022-03",
+            "summary": "I worked for 6 years as a mid to senior backend engineer for Capital One on multiple projects. My largest project involved a platform to make performing and managing automated security scans easier for developers which was used across the company. Gradually the focus shifted to smaller microservices, and I helped design and implement a more modern ingestion setup for WhiteSource findings using Lambda functions. I also worked on a larger finding ingestion and attribution platform composed of microservices, built using Lambda functions with DynamoDB as the database layer.",
+            "highlights": [
+                "- Instrumental in the design of a software project that helped make it easier for developers across the company to write secure code",
+                "- Worked to design and deploy cloud native software on AWS",
+                "- Drove database and schema designs in Mongo & Dynamo with some minor experience in PostgreSQL",
+                "- Designed and implemented solutions for distributed work systems using SQS and bull (OSS task management framework using redis)",
+                "- Reviewed and helped mentor the work of more junior team members through PRs and informal pair programming sessions",
+                "- Co-author of <a href='https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10387659.PN.&OS=PN/10387659&RS=PN/10387659'>US Patent No. 10,387,659</a> for the de-duplication of static source code security findings"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Maryland",
+            "url": "https://umd.edu/",
+            "area": "Computer Engineering",
+            "studyType": "Bachelor"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "AWS Solutions Architect Associate",
+            "date": "2022-03",
+            "issuer": "Amazon",
+            "url": {
+                "url": "https://www.credly.com/badges/f6b51e88-4145-4bf2-8cc0-79ff2d338d15/public_url",
+                "text": "Link"
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "Backend Development",
+            "level": "Senior",
+            "keywords": [
+                "JavaScript",
+                "Python"
+            ]
+        },
+        {
+            "name": "Database Design",
+            "level": "Senior",
+            "keywords": [
+                "MongoDB",
+                "Dynamo",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "name": "Cloud",
+            "level": "Mid",
+            "keywords": [
+                "AWS",
+                "Lambda",
+                "EC2",
+                "S3"
+            ]
+        }
+    ]
+}

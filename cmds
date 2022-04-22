@@ -1,0 +1,3 @@
+./node_modules/resume-cli/build/main.js
+
+node resume.js > resume.html
