@@ -3,16 +3,30 @@
         "name": "Stephen Kent",
         "label": "Backend Developer",
         "image": "",
-        "email": "stevejameskent1@gmail.com",
+        "email": "stevekcode@gmail.com",
         "phone": "(571) 295-6530",
-        "summary": "I'm a backend web developer with several years of experience developing, maintaining, and managing cloud native web applications. In addition to implementation I have been responsible for driving the full development lifecycle, from design through to deployment, maintenance and operations and I am comfortable handling the demands of modern software projects. In my spare time I'm using playing guitar (badly) or learning French.",
+        "summary": "I'm a backend web developer with several years of experience developing, maintaining, and managing cloud native web applications. In addition to implementation I have been responsible for driving the full development lifecycle, from design through to deployment, maintenance and operations and I am comfortable handling the demands of modern software projects. In my spare time I'm usually playing guitar (badly) or learning French.",
         "location": {
             "address": "2700 Dorr Ave",
             "postalCode": "VA 22031",
             "city": "Fairfax",
             "countryCode": "US"
         },
-        "profiles": []
+        "profiles": [
+            {
+                "network": "github",
+                "username": "stevejkcode",
+                "url": "https://github.com/stevejkcode"
+            },
+            {
+                "username": "html",
+                "url": "https://stevejkcode.github.io/resume.html"
+            },
+            {
+                "username": "pdf",
+                "url": "https://stevejkcode.github.io/resume.pdf"
+            }
+        ]
     },
     "work": [
         {
